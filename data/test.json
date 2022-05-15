@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "idProfile":"pf002",
+        "title":"Solo daxuo không abc ?",
+        "content":"https://img4.thuthuatphanmem.vn/uploads/2020/06/05/hinh-anh-ys-pentakill_102324327.jpg"
+    },
+    {
+        "id":2,
+        "idProfile":"pf001",
+        "title":"Mọi người nên đeo khẩu trang, hạn chế tụ tập để tránh lấy nhiễm covid nhé",
+        "content":"https://laichau.gov.vn/upload/2000066/20211126/grab00fdb2021_4_1_14_54_59_637528856991768967_KK5.jpg"
+    },
+    {
+        "id":3,
+        "idProfile":"pf001",
+        "title":"Mọi người nên đeo khẩu trang, hạn chế tụ tập để tránh lấy nhiễm covid nhé",
+        "content":"https://laichau.gov.vn/upload/2000066/20211126/grab00fdb2021_4_1_14_54_59_637528856991768967_KK5.jpg"
+    },
+    {
+        "id":4,
+        "idProfile":"pf001",
+        "title":"Mọi người nên đeo khẩu trang, hạn chế tụ tập để tránh lấy nhiễm covid nhé",
+        "content":"https://laichau.gov.vn/upload/2000066/20211126/grab00fdb2021_4_1_14_54_59_637528856991768967_KK5.jpg"
+    },
+    {
+        "id":5,
+        "idProfile":"pf001",
+        "title":"Mọi người nên đeo khẩu trang, hạn chế tụ tập để tránh lấy nhiễm covid nhé",
+        "content":"https://laichau.gov.vn/upload/2000066/20211126/grab00fdb2021_4_1_14_54_59_637528856991768967_KK5.jpg"
+    }
+]
